@@ -1,6 +1,11 @@
-### <p align="center">
-  <img src=https://capsule-render.vercel.app/api?type=soft&color=B6DCB6&height=300&section=header&text=SongInkyu&fontSize=70&&animation=fadeIn" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=soft&color=B6DCB6&height=300&section=header&text=SongInkyu&fontSize=70&animation=twinkling)
+
+<h3 align="center"> 🌱 Tech Stack (~ing) </h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 
 <!-- (각주)
 **songinq/songinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
