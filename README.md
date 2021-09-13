@@ -1,6 +1,6 @@
-### Hi there 👋
+### https://capsule-render.vercel.app/api?type=soft&color=B6DCB6&height=300&section=header&text=SongInkyu&fontSize=70&&animation=fadeIn
 
-<!--
+<!-- (각주)
 **songinq/songinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
